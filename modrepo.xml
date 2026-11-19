@@ -3,11 +3,24 @@
   >
   <ModVersion
       ModID="stationeers-misophonia-mod"
-      Version="0.1.0"
+      Version="1.0.0.1-dev"
       Name="MisophoniaMod"
       Author="aproposmath"
-      Url="https://github.com/aproposmath/stationeers-misophonia/releases/download/v0.1.0/MisophoniaMod-v0.1.0.zip"
-      Digest="sha256:63eeeb11710d3acd65f0aa260d998324ccddfd5ab66112cd0a9e306a4275785a"
+      Url="https://github.com/aproposmath/stationeers-misophonia/releases/download/main/MisophoniaMod-main.zip"
+      Digest="sha256:c9692775e29b4e60c841fe7968ca78e25ef5c1de2f0f915895bab0bdfea76408"
+    >
+    <Branch
+        Value="main"
+    />
+  </ModVersion
+  >
+  <ModVersion
+      ModID="stationeers-misophonia-mod"
+      Version="1.0.0"
+      Name="MisophoniaMod"
+      Author="aproposmath"
+      Url="https://github.com/aproposmath/stationeers-misophonia/releases/download/v1.0.0/MisophoniaMod-v1.0.0.zip"
+      Digest="sha256:6532d9e316fac2cde6e8800328d1bb614bb69306c95499dbc7e3f2f4c3b2e269"
   />
 </ModRepo
 >
