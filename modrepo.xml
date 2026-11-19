@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModRepo
+  >
+  <ModVersion
+      ModID="stationeers-misophonia-mod"
+      Version="0.1.0"
+      Name="MisophoniaMod"
+      Author="aproposmath"
+      Url="https://github.com/aproposmath/stationeers-misophonia/releases/download/v0.1.0/MisophoniaMod-v0.1.0.zip"
+      Digest="sha256:917e021366f414d5b3913a164c261b2511e486f565f7550e8ca56e8e80dd3e67"
+  />
+</ModRepo
+>
