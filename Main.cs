@@ -102,7 +102,7 @@ public sealed class MisophoniaModPlugin : BaseUnityPlugin
         foreach (var id in additionalIds)
             ids.Add(id.Key, id.Value);
 
-        // scan all valid fields in Assets.Scripts.Utils.Defines.Sound (sound is aclass insid defines); 
+        // scan all valid fields in Assets.Scripts.Utils.Defines.Sound 
         var soundType = typeof(Assets.Scripts.Util.Defines.Sounds);
         var fields = soundType.GetFields(System.Reflection.BindingFlags.Public | System.Reflection.BindingFlags.Static);
         foreach (var field in fields)

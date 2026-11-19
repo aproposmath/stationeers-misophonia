@@ -6,7 +6,6 @@ using System;
 
 namespace MisophoniaMod;
 
-// todo: fix ambigious overload, use this variant: 	public PooledAudioSource PlayAudioClipsData(IAudioParent parent, int clipsDataHash, Vector3 localPosition, ChannelData channelData = null, float volumeMultiplier = 1f, float pitchMultiplier = 1f)
 [HarmonyPatch(typeof(AudioManager), nameof(AudioManager.PlayAudioClipsData), new Type[] { typeof(Audio.IAudioParent), typeof(int), typeof(UnityEngine.Vector3), typeof(ChannelData), typeof(float), typeof(float) })]
 public static class Patch_AudioManager_PlayAudioClipsData
 {
