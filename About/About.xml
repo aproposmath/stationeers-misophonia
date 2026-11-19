@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ModMetadata
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+>
+    <ModID>stationeers-misophonia-mod</ModID>
+    <Name>MisophoniaMod</Name>
+    <Author>aproposmath</Author>
+    <Version>1.0.0</Version>
+    <ModSide>Client</ModSide>
+    <!-- Steam description using steam styling tags for Steam workshop page -->
+    <Description>[h1]MisophoniaMod[/h1]
+        Mutes all drinking/eating related and/or other sounds, like pipe stress (configurable).
+        Client only mod, no server installation required in multiplayer.
+
+        Installation: Subscribe the workshop item and make sure that BepInEx and StationeersLaunchpad are installed.
+        See: https://github.com/StationeersLaunchPad/StationeersLaunchPad
+        
+        Use the StationeersLaunchpad config tool or edit BepInEx/config/stationeers-misophonia-mod.config. Changes are applied when a save is loaded.
+        
+        List of all configurable sounds:
+        ActivateButton, ApcCharged, ApcCharging, ApcClose, ApcDischarged, ApcDischarging, ApcOff, ApcOn, ApcOpen, AtmosphereFire, AtmosphereFireStart, BobbleHead, CapsuleImpact, ChuteBinClose, ChuteBinOpen, CollectorIngest, CollectorInwardsLoop, CollectorInwardsStart, CollectorOutwardsLoop, CollectorOutwardsStart, CompletedChime, CompositeWallStress, CornerLockerClose, CornerLockerOpen, DeviceExport, DeviceImport, DialTurn, DirectionNextButton, DirectionPreviousButton, DisposableBatteryCharger, DisposableBatteryChargerFinished, Drink, DrinkFinished, DryFire, DuctTapeFinished, DuctTapeUsing, Eating, EatingFinished, EggCartonClose, EggCartonOpen, ElectricalFailure, EnginesExternal, EnginesInternal, EquipHeavyMiningTool, EquipSound, Error, FlareAirBurst, FootstepWater, GlassWallStress, GrinderActiveOff, HarvestPlant, HarvestPlantActive, HemDroidRepairKit, HemDroidRepairKitFinished, InjectorUse, Label, LabelCancel, LabelConfirm, LeverDown, LeverUp, LogicErrorBeep, LogicMath, LogicOff, LogicOffBeep, LogicOn, LogicOnBeep, LogicRead, LogicWrite, MetalWallStress, MovingSoundHorizontal, MovingSoundHorizontalFinish, MovingSoundHorizontalStart, MovingSoundVertical, MovingSoundVerticalFinish, MovingSoundVerticalStart, PipeDamage, PipeDeviceOff, PipeDeviceOn, PipeFail, PipeLeak, PipeStress, PipeValveOff, PipeValveOn, PlantingFinished, PlantingPlant, RobotArmAnimate, RobotArmAnimateDown, RobotArmAnimateUp, RobotArmMoving, RobotArmStop, RocketAmbience, RocketClose, RocketDistant, RocketStart, SanitationBag, ScrewdriverSound, ShutterClose, ShutterCloseStop, ShutterOpen, ShutterOpenStop, ShuttleLargeMainEngine, ShuttleLargeMainEngineDepart, ShuttleLargeMainEngineDistant, ShuttleLargeMainEngineDistantDepart, ShuttleLargeMainEngineL, ShuttleLargeMainEngineLDepart, ShuttleLargeMainEngineR, ShuttleLargeMainEngineRDepart, ShuttleMediumMainEngine, ShuttleMediumMainEngineDepart, ShuttleMediumMainEngineDistant, ShuttleMediumMainEngineDistantDepart, ShuttleMediumMainEngineEnd, ShuttleMediumMainEngineStart, ShuttleSmallMainEngine, ShuttleSmallMainEngineDepart, ShuttleSmallMainEngineDistant, ShuttleSmallMainEngineDistantDepart, ShuttleSmallMainEngineEnd, ShuttleSmallMainEngineStart, ShuttleSmallSonicBoom, Splice, StorageLockerClose, StorageLockerOpen, StorageLockerSmallClose, StorageLockerSmallOpen, SwitchOff, SwitchOn, ThrottleLeverDown, ThrottleLeverUp, ToiletFlush, UnEquipHeavyMiningTool, UnEquipSound, VentInwards, VentOutwards, VolumePumpRunnning, WaterBottleFill, WrenchOneShot
+    </Description>
+    <!-- The whole contents of ChangeLog should be changed for each publication for Steam workshop page -->
+    <ChangeLog>
+        v1.0.0:
+        - Initial release
+    </ChangeLog>
+    <!-- StationeersMods and BepInEx tags for Steam workshop page will be automatically added by the framework when publishing -->
+    <Tags>
+        <Tag>Mod</Tag>
+    </Tags>
+    <!-- Automatic downloads of dependencies -->
+    <Dependencies />
+    <!-- Automatic reordering of the mods list -->
+    <LoadBefore />
+    <LoadAfter />
+</ModMetadata>
