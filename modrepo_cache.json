@@ -1,4 +1,19 @@
 {
+    "sha256:0bf84bd6af615587bb94527313f5750fafc47815805b67320fb070713afd8794": {
+        "author": "aproposmath",
+        "branch": [
+            "main"
+        ],
+        "depends_on": [],
+        "digest": "sha256:0bf84bd6af615587bb94527313f5750fafc47815805b67320fb070713afd8794",
+        "id": "stationeers-misophonia-mod",
+        "name": "MisophoniaMod",
+        "tag": [
+            "Mod"
+        ],
+        "url": "https://github.com/aproposmath/stationeers-misophonia/releases/download/main/MisophoniaMod-main.zip",
+        "version": "1.0.0.2-dev"
+    },
     "sha256:6532d9e316fac2cde6e8800328d1bb614bb69306c95499dbc7e3f2f4c3b2e269": {
         "author": "aproposmath",
         "branch": [],
@@ -11,20 +26,5 @@
         ],
         "url": "https://github.com/aproposmath/stationeers-misophonia/releases/download/v1.0.0/MisophoniaMod-v1.0.0.zip",
         "version": "1.0.0"
-    },
-    "sha256:c9692775e29b4e60c841fe7968ca78e25ef5c1de2f0f915895bab0bdfea76408": {
-        "author": "aproposmath",
-        "branch": [
-            "main"
-        ],
-        "depends_on": [],
-        "digest": "sha256:c9692775e29b4e60c841fe7968ca78e25ef5c1de2f0f915895bab0bdfea76408",
-        "id": "stationeers-misophonia-mod",
-        "name": "MisophoniaMod",
-        "tag": [
-            "Mod"
-        ],
-        "url": "https://github.com/aproposmath/stationeers-misophonia/releases/download/main/MisophoniaMod-main.zip",
-        "version": "1.0.0.1-dev"
     }
 }
