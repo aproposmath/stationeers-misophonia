@@ -1,9 +1,9 @@
 {
-    "sha256:917e021366f414d5b3913a164c261b2511e486f565f7550e8ca56e8e80dd3e67": {
+    "sha256:63eeeb11710d3acd65f0aa260d998324ccddfd5ab66112cd0a9e306a4275785a": {
         "author": "aproposmath",
         "branch": [],
         "depends_on": [],
-        "digest": "sha256:917e021366f414d5b3913a164c261b2511e486f565f7550e8ca56e8e80dd3e67",
+        "digest": "sha256:63eeeb11710d3acd65f0aa260d998324ccddfd5ab66112cd0a9e306a4275785a",
         "id": "stationeers-misophonia-mod",
         "name": "MisophoniaMod",
         "tag": [
