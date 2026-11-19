@@ -4,6 +4,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 >
     <ModID>stationeers-misophonia-mod</ModID>
+    <WorkshopHandle>3842396375</WorkshopHandle>
     <Name>MisophoniaMod</Name>
     <Author>aproposmath</Author>
     <Version>1.0.0</Version>
